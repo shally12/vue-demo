@@ -1,6 +1,3 @@
 # vue-demo
 
 # Sally
-
-
-# dot
